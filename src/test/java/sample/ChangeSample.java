@@ -7,6 +7,7 @@ public class ChangeSample {
 	@Test
 	public void changeSample() {
 		System.out.println("Hey this is my new commit");
+		System.out.println("this commit is for conflict");
 	}
 
 }
